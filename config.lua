@@ -23,7 +23,7 @@ Config = {
         PrimaryColor	= 		{0, 0, 0}, 									-- [Optional] Primary color in RGB format (R, G, B)
         SecondaryColor	= 		{0, 0, 0}, 									-- [Optional] Secondary color in RGB format (R, G, B)
 
-		-- [Optional] Available Colors: Default, White, Blue, ElectricBlue, MintGreen, LimeGreen, Yellow, GoldenShower, Orange, Red, PonyPink, HotPink, Purple, Blacklight
+		-- [Optional] Available Colors: Default, White, Blue, ElectricBlue, MintGreen, LimeGreen, Yellow, Golden, Orange, Red, PonyPink, HotPink, Purple, Blacklight
 		XenonColor		=		'Golden',									-- [Optional] Xenon headlight color
         NeonColor		=		'Golden'									-- [Optional] Neon underglow color
     },
